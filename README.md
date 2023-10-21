@@ -1,3 +1,5 @@
+
+https://github.com/harsh123-baba/harsh123-baba/assets/64320530/f4679b80-350e-4bbb-a308-da2a869176c3
 <h1 align="center">Hi 👋, I'm Harshit Goyal</h1>
 <h3 align="center">A passionate Full-stack engineer from India</h3>
 
