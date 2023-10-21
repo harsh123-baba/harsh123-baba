@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1I4JYk4Wf7VYd0kME7YV1Kn9GJz5UpTXM/view?usp=share_link](https://drive.google.com/file/d/1I4JYk4Wf7VYd0kME7YV1Kn9GJz5UpTXM/view?usp=share_link">Resume</a>
 
-- ⚡ Fun fact **I think i am Photographer, Guitarist, and Programmer too.**
+- ⚡ Fun fact **1 + "1" = "11" JAVASCRIPT SUCKS DUDE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
