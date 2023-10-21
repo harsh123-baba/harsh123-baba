@@ -1,4 +1,4 @@
-![image](https://github.com/harsh123-baba/harsh123-baba/assets/64320530/1a21d11e-f128-444b-9efc-8b1b178b685a)<h1 align="center">Hi 👋, I'm Harshit Goyal</h1>
+<h1 align="center">Hi 👋, I'm Harshit Goyal</h1>
 <h3 align="center">A passionate Full-stack engineer from India</h3>
 <img aligh ="right" alt="code" width = "400" src = "![image](https://github.com/harsh123-baba/harsh123-baba/assets/64320530/6249498e-c8fd-400d-bebd-1034a8af2163)">
 
