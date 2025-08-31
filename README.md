@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Harshit Goyal</h1>
 <h3 align="center">A passionate Full-stack engineer from India</h3>
 
-- 🔭 I’m currently working on **My personal portfoliosite**
+- 🔭 I’m currently working as **AI Engineer**
 
-- 🌱 I’m currently learning **MERN, Networking, Python Django, Flutter**
+- 🌱 I’m learning **Python,fastapi, agentic Ai, RAG, GenAI, evaluation frameworks, langchain and many more on AI Front,**
 
-- 👯 I’m looking to collaborate on **Full-stack Engineering Role**
+- 👯 I’m looking to collaborate on **Full-stack Engineering solutions**
 
 - 💬 Ask me about **What do you like**
 
